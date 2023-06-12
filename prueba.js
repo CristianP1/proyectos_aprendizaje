@@ -12,7 +12,7 @@ console.log(test_js("Cristian", "Sanchez", "CristianP1"))
 
 
 // RECORDANDO CONDICIONALES
-
+/*
 let array_a = [
     {type: "Free", description: "Solo puedes tomar los cursos gratis"},
     {type: "Basic", description: "Puedes tomar casi todos los cursos de Platzi durante un mes"},
@@ -25,3 +25,4 @@ for (let i = 0; i < array_a.length; i++) {
         console.log(array_a[i].description)
     }
 }
+*/
